@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project</string>
+    <string name="merhindese">Prekės</string>
+    <string name="cart">Krepšėlis</string>
+    <string name="orders">Užsakymai</string>
+    <string name="signOut">Atsijungti</string>
+    <string name="loginbut">Prisijungti</string>
+    <string name="addtocartbut">Pridėti Į Krepšelį</string>
+    <string name="details">Detaliau:</string>
+    <string name="price">Kaina:</string>
+    <string name="addToCart">Pridėti Į Krepšelį</string>
+    <string name="removeFromCart">Pašalinti Iš Krepšelio</string>
+    <string name="buyItems">Pirkti</string>
+    <string name="cartFrag">Krepšelis</string>
+    <string name="merchFrag">Prekės</string>
+    <string name="loginFrag">Prisijungti</string>
+    <string name="detailsFrag">Detaliau</string>
+    <string name="orderFrag">Užsakymai</string>
+    <string name="spalshFrag">Sveiki</string>
+    <string name="email">Pagalba</string>
+    <string name="itemPrice">Kaina: €</string>
+    <string name="totalPrice">Visa Kaina: €</string>
+    <string name="orderID">Užsakymo ID:</string>
+</resources>

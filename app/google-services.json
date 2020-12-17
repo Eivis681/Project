@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190408853213",
+    "project_id": "project-20722",
+    "storage_bucket": "project-20722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190408853213:android:4e301ebce401457ad7bd34",
+        "android_client_info": {
+          "package_name": "eif.viko.lt.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190408853213-bta3ssfj62houbi7mo65ov20lrg6dpbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADP2ZEwwnAZoCigO7ANu-gbvdrpVbIWPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190408853213-bta3ssfj62houbi7mo65ov20lrg6dpbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

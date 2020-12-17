@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item
+            android:id="@+id/homeFragment"
+            android:icon="@drawable/ic_baseline_language_24"
+            android:title="@string/merhindese"
+            app:showAsAction="ifRoom" />
+        <item
+            android:id="@+id/cartFragment"
+            android:icon="@drawable/ic_baseline_shopping_cart_24"
+            android:title="@string/cart"
+            app:showAsAction="ifRoom" />
+        <item
+            android:id="@+id/orderFragment"
+            android:icon="@drawable/ic_baseline_check_24"
+            android:title="@string/orders"
+            app:showAsAction="ifRoom" />
+        <item
+            android:id="@+id/emailFragment"
+            android:icon="@drawable/ic_baseline_email_24"
+            android:title="@string/email"
+            app:showAsAction="ifRoom" />
+        <item
+            android:id="@+id/loginFragment"
+            android:icon="@drawable/ic_baseline_close_24"
+            android:title="@string/signOut"
+            app:showAsAction="ifRoom" />
+    </group>
+</menu>
